@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Azhou AI Hub</title>
+  <desc id="desc">A warm project card showing a verified skill pipeline from trigger to human decision.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#3F2414" stroke-opacity="0.06"/>
+    </pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#FA9439"/>
+    </marker>
+  </defs>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="#FEF9EB" stroke="#EAD9C8" stroke-width="2"/>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="url(#grid)"/>
+  <rect x="54" y="42" width="184" height="34" rx="17" fill="#3F2414"/>
+  <text x="146" y="64" fill="#FEF9EB" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="1.8" text-anchor="middle">AGENT SKILL SYSTEM</text>
+  <text x="54" y="133" fill="#3F2414" font-family="Inter, sans-serif" font-size="44" font-weight="900">Azhou AI Hub</text>
+  <text x="54" y="174" fill="#FA9439" font-family="Inter, sans-serif" font-size="25" font-weight="800">Agent skills that stay useful after the demo.</text>
+  <text x="54" y="218" fill="#3F2414" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="600">明确触发 · 可移植运行 · 确定性门禁 · 证据留存 · 人工升级</text>
+  <rect x="54" y="250" width="236" height="38" rx="19" fill="#FA9439"/>
+  <text x="172" y="275" fill="#3F2414" font-family="Inter, sans-serif" font-size="14" font-weight="900" letter-spacing="1.3" text-anchor="middle">OPEN THE REPOSITORY →</text>
+
+  <g transform="translate(680 0)" font-family="Inter, sans-serif" text-anchor="middle">
+    <path d="M64 161H480" fill="none" stroke="#FA9439" stroke-width="4" marker-end="url(#arrow)"/>
+    <g font-size="12" font-weight="900" letter-spacing="1">
+      <rect x="20" y="110" width="104" height="102" rx="20" fill="#3F2414"/>
+      <text x="72" y="157" fill="#FEF9EB">TRIGGER</text>
+      <text x="72" y="180" fill="#FAA67C">01</text>
+      <rect x="136" y="110" width="104" height="102" rx="20" fill="#F6E5D4" stroke="#3F2414" stroke-width="2"/>
+      <text x="188" y="157" fill="#3F2414">RUNTIME</text>
+      <text x="188" y="180" fill="#FA9439">02</text>
+      <rect x="252" y="110" width="104" height="102" rx="20" fill="#FA9439"/>
+      <text x="304" y="157" fill="#3F2414">GATE</text>
+      <text x="304" y="180" fill="#3F2414">03</text>
+      <rect x="368" y="110" width="104" height="102" rx="20" fill="#FFD8C3" stroke="#3F2414" stroke-width="2"/>
+      <text x="420" y="157" fill="#3F2414">EVIDENCE</text>
+      <text x="420" y="180" fill="#FA9439">04</text>
+      <circle cx="518" cy="161" r="52" fill="#3F2414"/>
+      <text x="518" y="157" fill="#FEF9EB">HUMAN</text>
+      <text x="518" y="180" fill="#FAA67C">DECIDES</text>
+    </g>
+  </g>
+</svg>

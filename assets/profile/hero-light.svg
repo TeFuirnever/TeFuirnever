@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Azhou Proof Lab</title>
+  <desc id="desc">Warm geometric banner with a proof loop connecting Skill, Gate, Evidence, and Human.</desc>
+  <defs>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FA9439"/>
+      <stop offset="1" stop-color="#FAA67C"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3F2414" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#3F2414" flood-opacity="0.16"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#FA9439"/>
+    </marker>
+  </defs>
+
+  <rect x="8" y="8" width="1264" height="464" rx="34" fill="#FEF9EB" stroke="#EAD9C8" stroke-width="2"/>
+  <rect x="8" y="8" width="1264" height="464" rx="34" fill="url(#grid)"/>
+  <circle cx="1216" cy="34" r="166" fill="#FAA67C" opacity="0.18"/>
+  <circle cx="704" cy="462" r="116" fill="#FA9439" opacity="0.10"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#3F2414">
+    <rect x="64" y="52" width="232" height="38" rx="19" fill="#3F2414"/>
+    <text x="180" y="77" fill="#FEF9EB" font-size="15" font-weight="800" letter-spacing="2.4" text-anchor="middle">AZHOU / PROOF LAB</text>
+
+    <text x="64" y="158" font-size="58" font-weight="900" letter-spacing="-1.8">BUILD AI AGENTS</text>
+    <text x="64" y="222" font-size="58" font-weight="900" letter-spacing="-1.8">THAT CAN PROVE</text>
+    <text x="64" y="286" font-size="58" font-weight="900" letter-spacing="-1.8" fill="#FA9439">THEMSELVES.</text>
+
+    <text x="66" y="334" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="650">把 Agent Skill、本地 AI 与自动化工作流，</text>
+    <text x="66" y="368" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="650">做成可验证、可复现、由人控制的产品。</text>
+
+    <g font-size="14" font-weight="800" letter-spacing="1.2">
+      <rect x="64" y="408" width="146" height="34" rx="17" fill="#F6E5D4"/>
+      <text x="137" y="430" text-anchor="middle">LOCAL FIRST</text>
+      <rect x="220" y="408" width="162" height="34" rx="17" fill="#FFD8C3"/>
+      <text x="301" y="430" text-anchor="middle">PROOF DRIVEN</text>
+      <rect x="392" y="408" width="204" height="34" rx="17" fill="#3F2414"/>
+      <text x="494" y="430" fill="#FEF9EB" text-anchor="middle">HUMAN CONTROLLED</text>
+    </g>
+  </g>
+
+  <g transform="translate(0 2)" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" filter="url(#shadow)">
+    <circle cx="1014" cy="238" r="168" fill="#FFFDF7" stroke="#FA9439" stroke-width="3"/>
+    <circle cx="1014" cy="238" r="124" fill="none" stroke="#FAA67C" stroke-width="2" stroke-dasharray="5 10"/>
+    <path d="M1014 88A150 150 0 0 1 1164 238" fill="none" stroke="#FA9439" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M1164 238A150 150 0 0 1 1014 388" fill="none" stroke="#FA9439" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M1014 388A150 150 0 0 1 864 238" fill="none" stroke="#FA9439" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M864 238A150 150 0 0 1 1014 88" fill="none" stroke="#FA9439" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <circle cx="1014" cy="238" r="76" fill="url(#warm)"/>
+    <text x="1014" y="229" fill="#3F2414" font-size="18" font-weight="900" letter-spacing="2" text-anchor="middle">PROOF</text>
+    <text x="1014" y="257" fill="#3F2414" font-size="18" font-weight="900" letter-spacing="2" text-anchor="middle">LOOP</text>
+
+    <g font-size="15" font-weight="900" letter-spacing="1.2" text-anchor="middle">
+      <circle cx="1014" cy="76" r="42" fill="#3F2414"/>
+      <text x="1014" y="81" fill="#FEF9EB">SKILL</text>
+      <circle cx="1176" cy="238" r="42" fill="#FA9439"/>
+      <text x="1176" y="243" fill="#3F2414">GATE</text>
+      <circle cx="1014" cy="400" r="42" fill="#3F2414"/>
+      <text x="1014" y="405" fill="#FEF9EB">EVIDENCE</text>
+      <circle cx="852" cy="238" r="42" fill="#FAA67C"/>
+      <text x="852" y="243" fill="#3F2414">HUMAN</text>
+    </g>
+  </g>
+</svg>

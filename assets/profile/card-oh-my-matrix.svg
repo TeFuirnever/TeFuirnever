@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">oh-my-matrix</title>
+  <desc id="desc">A dark warm project card with connected workflow nodes and permission gates.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#FEF9EB" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FA9439" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="#21120C" stroke="#68402A" stroke-width="2"/>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="url(#grid)"/>
+  <rect x="54" y="42" width="248" height="34" rx="17" fill="#FAA67C"/>
+  <text x="178" y="64" fill="#21120C" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="1.8" text-anchor="middle">AGENT ORCHESTRATION STACK</text>
+  <text x="54" y="133" fill="#FEF9EB" font-family="Inter, sans-serif" font-size="44" font-weight="900">oh-my-matrix</text>
+  <text x="54" y="174" fill="#FA9439" font-family="Inter, sans-serif" font-size="25" font-weight="800">Long-running work. Visible boundaries.</text>
+  <text x="54" y="218" fill="#FEF9EB" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="600">持续执行 · 并行工作流 · 权限守卫 · 证据回收 · WIP 诚实</text>
+  <rect x="54" y="250" width="236" height="38" rx="19" fill="#FEF9EB"/>
+  <text x="172" y="275" fill="#21120C" font-family="Inter, sans-serif" font-size="14" font-weight="900" letter-spacing="1.3" text-anchor="middle">OPEN THE REPOSITORY →</text>
+
+  <g transform="translate(740 32)" filter="url(#glow)" font-family="Inter, sans-serif" font-size="12" font-weight="900" text-anchor="middle">
+    <path d="M62 74L224 54L386 90M62 74L198 190L386 90M224 54L338 208M198 190L338 208L474 150M386 90L474 150" fill="none" stroke="#FA9439" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="62" cy="74" r="44" fill="#FEF9EB"/>
+    <text x="62" y="78" fill="#21120C">GOAL</text>
+    <circle cx="224" cy="54" r="44" fill="#FA9439"/>
+    <text x="224" y="58" fill="#21120C">LOOP</text>
+    <circle cx="386" cy="90" r="44" fill="#FAA67C"/>
+    <text x="386" y="94" fill="#21120C">WORKFLOW</text>
+    <circle cx="198" cy="190" r="44" fill="#3F2414" stroke="#FEF9EB" stroke-width="2"/>
+    <text x="198" y="194" fill="#FEF9EB">AGENTS</text>
+    <circle cx="338" cy="208" r="44" fill="#FA9439"/>
+    <text x="338" y="212" fill="#21120C">EVIDENCE</text>
+    <circle cx="474" cy="150" r="50" fill="#FEF9EB"/>
+    <rect x="455" y="140" width="38" height="30" rx="7" fill="#21120C"/>
+    <path d="M463 140V132A11 11 0 0 1 485 132V140" fill="none" stroke="#21120C" stroke-width="5"/>
+    <text x="474" y="190" fill="#FEF9EB" letter-spacing="1.2">GUARD</text>
+  </g>
+</svg>
