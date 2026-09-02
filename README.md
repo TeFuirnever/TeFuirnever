@@ -2,24 +2,18 @@
 
 <!-- markdownlint-disable MD013 MD033 -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/hero-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/hero-light.svg">
+<p align="center">
   <img
-    alt="Azhou Proof Lab — Build AI agents that can prove themselves"
-    src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/hero-light.svg"
+    alt="阿舟的 Agent 实验室首页图：2026-09-02 的公开账号快照，展示 14 个原创公开仓库、75 位关注者，以及 Azhou AI Hub、Murmur、两本橙皮书与 oh-my-matrix。"
+    src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/azhou-public-work.png"
     width="100%">
-</picture>
+</p>
 
 <div align="center">
 
-<strong>Agent Skills · Local AI · Human-Controlled Automation</strong>
+<strong>阿舟的 Agent 实验室 · Agent Skills · Local AI · Human-Controlled Automation</strong>
 
-我不做只在演示里好看的 AI 项目。能跑只是起点，边界、证据和人的最终判断，同样属于交付。
+我不做只在演示里好看的 AI 项目。能跑只是起点；边界、证据、可复现性和人的最终判断，同样属于交付。
 
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.1k-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever)
@@ -30,6 +24,14 @@
 </div>
 
 <!-- markdownlint-enable MD013 MD033 -->
+
+---
+
+## AZHOU / 阿舟
+
+阿舟不是另一个项目名，而是这个账号面向开源的统一实验室品牌：用同一套实践标准连接 Agent Skills、本地 AI 和自动化工程。
+
+每一次公开交付都回答四个问题：**能不能运行？别人能不能复现？自动化边界是否清楚？什么时候交还给人？**
 
 ---
 
@@ -52,6 +54,18 @@
 让长程任务持续执行，把复杂工作拆成可验证的并行流程，并在真实工具调用前守住权限边界。当前仍是 WIP。
 
 [![oh-my-matrix — Agent orchestration stack](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-oh-my-matrix.svg)](https://github.com/TeFuirnever/oh-my-matrix)
+
+---
+
+## ORANGE BOOKS / 橙皮书
+
+### [Matt Pocock Skills Orange Book](https://github.com/TeFuirnever/matt-pocock-skills-orange-book) · AI 协作开发的 Skills 中文导读
+
+面向 AI 协作开发新手，整理 37 个 Skills、匿名 UI 客户端实例、Excalidraw 与阿舟图解。
+
+### [Claude Code Internals Orange Book](https://github.com/TeFuirnever/claude-code-internals-orange-book) · Claude Code 内核走读
+
+用五卷内容拆解 Claude Code 的设计决策与关键内部机制，给出可继续追踪的源码阅读路径。
 
 ---
 
