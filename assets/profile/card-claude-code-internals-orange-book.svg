@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Code Internals Orange Book</title>
+  <desc id="desc">A warm project card showing five stacked orange-book volumes beside a terminal window of source code.</desc>
+  <defs>
+    <linearGradient id="peach2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF0E6"/>
+      <stop offset="1" stop-color="#FFD8C3"/>
+    </linearGradient>
+    <pattern id="dots2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#3F2414" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="url(#peach2)" stroke="#E8C6B1" stroke-width="2"/>
+  <rect x="8" y="8" width="1264" height="304" rx="30" fill="url(#dots2)"/>
+  <rect x="54" y="42" width="200" height="34" rx="17" fill="#FA9439"/>
+  <text x="154" y="64" fill="#3F2414" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="1.8" text-anchor="middle">CODE STUDY · 五卷</text>
+  <text x="54" y="133" fill="#3F2414" font-family="Inter, sans-serif" font-size="44" font-weight="900">Claude Code 内核橙皮书</text>
+  <text x="54" y="174" fill="#9C4D22" font-family="Inter, sans-serif" font-size="25" font-weight="800">Read the source, not the rumors.</text>
+  <text x="54" y="218" fill="#3F2414" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" font-weight="600">两代源码 · 设计决策 × 内核走读 · 可继续追踪的阅读路径</text>
+  <rect x="54" y="250" width="236" height="38" rx="19" fill="#3F2414"/>
+  <text x="172" y="275" fill="#FEF9EB" font-family="Inter, sans-serif" font-size="14" font-weight="900" letter-spacing="1.3" text-anchor="middle">OPEN THE REPOSITORY →</text>
+
+  <g transform="translate(748 52)">
+    <!-- terminal window -->
+    <rect x="150" y="0" width="310" height="216" rx="20" fill="#3F2414"/>
+    <circle cx="178" cy="26" r="6" fill="#FA9439"/>
+    <circle cx="198" cy="26" r="6" fill="#FAA67C"/>
+    <circle cx="218" cy="26" r="6" fill="#FEF9EB"/>
+    <g stroke-linecap="round" stroke-width="7">
+      <path d="M172 62 H320" stroke="#FAA67C"/>
+      <path d="M172 88 H392" stroke="#FA9439"/>
+      <path d="M196 114 H352" stroke="#FEF9EB" opacity="0.7"/>
+      <path d="M196 140 H312" stroke="#FA9439"/>
+      <path d="M172 166 H368" stroke="#FAA67C"/>
+      <path d="M172 192 H288" stroke="#FEF9EB" opacity="0.7"/>
+    </g>
+    <!-- five volumes -->
+    <g font-family="Inter, sans-serif" font-size="13" font-weight="900" text-anchor="middle">
+      <g transform="rotate(-6 60 180)">
+        <rect x="24" y="60" width="34" height="150" rx="8" fill="#3F2414"/>
+        <text x="41" y="140" fill="#FAA67C">壹</text>
+      </g>
+      <g transform="rotate(-3 90 180)">
+        <rect x="62" y="52" width="34" height="158" rx="8" fill="#FA9439"/>
+        <text x="79" y="136" fill="#3F2414">贰</text>
+      </g>
+      <rect x="100" y="46" width="34" height="164" rx="8" fill="#FEF9EB" stroke="#3F2414" stroke-width="2"/>
+      <text x="117" y="132" fill="#3F2414">叁</text>
+      <g transform="rotate(3 148 180)">
+        <rect x="138" y="52" width="34" height="158" rx="8" fill="#FAA67C"/>
+        <text x="155" y="136" fill="#3F2414">肆</text>
+      </g>
+      <g transform="rotate(6 186 180)">
+        <rect x="176" y="60" width="34" height="150" rx="8" fill="#FA9439"/>
+        <text x="193" y="140" fill="#3F2414">伍</text>
+      </g>
+    </g>
+  </g>
+</svg>

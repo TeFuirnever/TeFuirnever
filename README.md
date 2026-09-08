@@ -67,9 +67,13 @@
 
 面向 AI 协作开发新手，整理 37 个 Skills、匿名 UI 客户端实例、Excalidraw 与阿舟图解。
 
+[![Matt Pocock Skills Orange Book — 37 个 Skills 中文导读](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-matt-pocock-skills-orange-book.svg)](https://github.com/TeFuirnever/matt-pocock-skills-orange-book)
+
 ### [Claude Code Internals Orange Book](https://github.com/TeFuirnever/claude-code-internals-orange-book) · Claude Code 内核走读
 
 用五卷内容拆解 Claude Code 的设计决策与关键内部机制，给出可继续追踪的源码阅读路径。
+
+[![Claude Code Internals Orange Book — 五卷内核走读](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-claude-code-internals-orange-book.svg)](https://github.com/TeFuirnever/claude-code-internals-orange-book)
 
 ---
 
