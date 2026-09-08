@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    alt="阿舟的 Agent 实验室首页图：2026-09-02 的公开账号快照，展示 14 个原创公开仓库、75 位关注者，以及 Azhou AI Hub、Murmur、两本橙皮书与 oh-my-matrix。"
+    alt="阿舟的 Agent 实验室首页图：2026-09-08 的公开账号快照，展示 14 个原创公开仓库、75 位关注者、约 1.1k Stars，以及 Azhou AI Hub 0.8.0、Murmur v1.5.0、两本橙皮书与 oh-my-matrix。"
     src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/azhou-public-work.png"
     width="100%">
 </p>
@@ -39,11 +39,15 @@
 
 ### [Azhou AI Hub](https://github.com/TeFuirnever/azhou-ai-hub) · 经得起验证的 Agent Skills
 
+[![Azhou AI Hub 0.8.0](https://img.shields.io/badge/0.8.0-2026--09--07-FA9439?style=flat)](https://github.com/TeFuirnever/azhou-ai-hub)
+
 把每个 skill 当作产品：明确触发、可移植运行、确定性门禁、证据留存，以及由人控制的演化路径。
 
 [![Azhou AI Hub — verified Agent Skill system](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-azhou-ai-hub.svg)](https://github.com/TeFuirnever/azhou-ai-hub)
 
 ### [Murmur](https://github.com/TeFuirnever/Murmur) · 为中文优化的本地 AI 语音输入
+
+[![Murmur release](https://img.shields.io/github/v/release/TeFuirnever/Murmur?style=flat&label=release&color=FAA67C)](https://github.com/TeFuirnever/Murmur/releases)
 
 说话就能打字，也能批量转写音频，再用 AI 整理成可继续编辑的文本；语音识别在本地完成。
 
