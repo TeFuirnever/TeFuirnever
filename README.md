@@ -17,8 +17,8 @@
 
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.1k-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever)
-[![Followers](https://img.shields.io/badge/Followers-76-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=followers)
-[![Original Repos](https://img.shields.io/badge/Original%20Repos-15-FAA67C?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-77-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=followers)
+[![Original Repos](https://img.shields.io/badge/Original%20Repos-16-FAA67C?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
 <!-- STATS-END -->
 
 </div>
