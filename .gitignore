@@ -1,0 +1,6 @@
+# 生成中间产物(fetch_stats/count_loc 的工作目录,不入库)
+.profile-build/
+
+# Python
+__pycache__/
+*.pyc

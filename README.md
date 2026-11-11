@@ -19,6 +19,8 @@
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.1k-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever)
 [![Followers](https://img.shields.io/badge/Followers-81-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=followers)
 [![Original Repos](https://img.shields.io/badge/Original%20Repos-16-FAA67C?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
+[![Commits](https://img.shields.io/badge/Commits-739-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=overview)
+[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-412.8k-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
 <!-- STATS-END -->
 
 </div>
@@ -89,6 +91,12 @@
 ---
 
 ## OPEN-SOURCE TRACK / 开源足迹
+
+每日由 GitHub Actions 重绘的账号快照:一年贡献热力图与 Neofetch 风格系统卡片,数据直连 GitHub GraphQL。
+
+[![Last year contribution heatmap, regenerated daily](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-contributions.svg)](https://github.com/TeFuirnever)
+
+[![Neofetch-style system snapshot with the avatar as coloured ASCII art](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-neofetch.svg)](https://github.com/TeFuirnever)
 
 [![Machine Learning in Action](https://img.shields.io/github/stars/TeFuirnever/Machine-Learning-in-Action?style=flat&label=Machine%20Learning%20in%20Action&color=FA9439)](https://github.com/TeFuirnever/Machine-Learning-in-Action)
 [![Murmur](https://img.shields.io/github/stars/TeFuirnever/Murmur?style=flat&label=Murmur&color=FAA67C)](https://github.com/TeFuirnever/Murmur)
