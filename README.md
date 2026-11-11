@@ -1,6 +1,9 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
-<img src="assets/profile/hero.jpg" alt="阿舟：能跑、能验、能交接。我不做只在演示里好看的 AI 项目。右侧是抱着电脑打字的 Q 版阿舟。" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.jpg" />
+  <img src="assets/profile/hero.jpg" alt="阿舟：能跑、能验、能交接。我不做只在演示里好看的 AI 项目。右侧是抱着电脑打字的 Q 版阿舟。" width="100%" />
+</picture>
 
 我是阿舟，在「阿舟的 Agent 实验室」专心做一件事：Azhou AI Hub，一套经得起验证的 Agent Skills。能跑只是起点；边界、证据、可复现性和人的最终判断，同样属于交付。
 
@@ -14,7 +17,12 @@
 
 ## 从这里开始：经得起验证的 Agent Skills
 
-[![Azhou AI Hub：经得起验证的 Agent Skills](assets/profile/azhou-ai-hub.jpg)](https://github.com/TeFuirnever/azhou-ai-hub)
+<a href="https://github.com/TeFuirnever/azhou-ai-hub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/azhou-ai-hub-dark.jpg" />
+    <img src="assets/profile/azhou-ai-hub.jpg" alt="Azhou AI Hub：经得起验证的 Agent Skills" width="100%" />
+  </picture>
+</a>
 
 每个 skill 都当产品做：触发明确、拿来就能跑、验收确定、证据留档，演化路径由人拍板。
 
