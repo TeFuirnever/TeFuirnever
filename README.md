@@ -40,11 +40,16 @@
 
 ## 开源足迹
 
-GitHub Actions 每天重绘这两张卡：一年贡献热力图，和一张 Neofetch 风格的系统快照。数据直连 GitHub GraphQL，数字没变就不产生提交。
+GitHub Actions 每天重绘这两张卡：一年贡献热力图，和一张 Neofetch 风格的系统快照；再加一条沿贡献格子吃点的橙色小蛇。数据直连 GitHub GraphQL，数字没变就不产生提交。
 
 [![Last year contribution heatmap, regenerated daily](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-contributions.svg)](https://github.com/TeFuirnever)
 
 [![Neofetch-style system snapshot with the avatar as coloured ASCII art](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-neofetch.svg)](https://github.com/TeFuirnever)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/output/snake-light.svg" alt="橙色小蛇沿着一年的贡献格子吃点的动画，每天重新生成" width="100%" />
+</picture>
 
 [![Azhou AI Hub](https://img.shields.io/github/stars/TeFuirnever/azhou-ai-hub?style=flat&label=Azhou%20AI%20Hub&color=3F2414)](https://github.com/TeFuirnever/azhou-ai-hub)
 
