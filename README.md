@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    alt="阿舟的 Agent 实验室首页图：2026-09-08 的公开账号快照，展示 14 个原创公开仓库、75 位关注者、约 1.1k Stars，以及 Azhou AI Hub 0.8.0、Murmur v1.5.0、两本橙皮书与 oh-my-matrix。"
+    alt="阿舟的 Agent 实验室首页图：2026-11-11 的公开账号快照，展示 16 个原创公开仓库、81 位关注者、约 1.1k Stars，以及 Azhou AI Hub v1.0.0、Murmur v1.6.0、三本橙皮书与 oh-my-matrix；右侧的阿舟狐狸提着工具箱走向下一场交接。"
     src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/azhou-public-work.png"
     width="100%">
 </p>
@@ -31,7 +31,7 @@
 
 ## AZHOU / 阿舟
 
-阿舟不是另一个项目名，而是这个账号面向开源的统一实验室品牌：用同一套实践标准连接 Agent Skills、本地 AI 和自动化工程。
+阿舟是这个账号面向开源的实验室品牌。我用同一套实践标准做三件事：Agent Skills、本地 AI、人控自动化。
 
 每一次公开交付都回答四个问题：**能不能运行？别人能不能复现？自动化边界是否清楚？什么时候交还给人？**
 
@@ -41,9 +41,9 @@
 
 ### [Azhou AI Hub](https://github.com/TeFuirnever/azhou-ai-hub) · 经得起验证的 Agent Skills
 
-[![Azhou AI Hub 0.8.0](https://img.shields.io/badge/0.8.0-2026--09--07-FA9439?style=flat)](https://github.com/TeFuirnever/azhou-ai-hub)
+[![Azhou AI Hub release](https://img.shields.io/github/v/release/TeFuirnever/azhou-ai-hub?style=flat&label=release&color=FA9439)](https://github.com/TeFuirnever/azhou-ai-hub/releases)
 
-把每个 skill 当作产品：明确触发、可移植运行、确定性门禁、证据留存，以及由人控制的演化路径。
+每个 skill 都当产品做：触发明确、拿来就能跑、验收确定、证据留档，演化路径由人拍板。
 
 [![Azhou AI Hub — verified Agent Skill system](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-azhou-ai-hub.svg)](https://github.com/TeFuirnever/azhou-ai-hub)
 
@@ -77,6 +77,10 @@
 
 [![Claude Code Internals Orange Book — 五卷内核走读](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-claude-code-internals-orange-book.svg)](https://github.com/TeFuirnever/claude-code-internals-orange-book)
 
+### [DeepSeek Harness Orange Book](https://github.com/TeFuirnever/deepseek-harness-orange-book) · 全插件 Agent 内核走读
+
+四卷套装：实战指南 × 源码走读 × mini-harness × 演进与评价，对着 pinned 源码树读懂全插件 Agent 内核。
+
 ---
 
 ## PROOF OVER PROMISES / 证据优先
@@ -92,7 +96,7 @@
 
 ## OPEN-SOURCE TRACK / 开源足迹
 
-每日由 GitHub Actions 重绘的账号快照:一年贡献热力图与 Neofetch 风格系统卡片,数据直连 GitHub GraphQL。
+GitHub Actions 每天重绘这两张卡：一年贡献热力图，和一张 Neofetch 风格的系统快照。数据直连 GitHub GraphQL，数字没变就不产生提交。
 
 [![Last year contribution heatmap, regenerated daily](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-contributions.svg)](https://github.com/TeFuirnever)
 
@@ -107,3 +111,7 @@
 
 **正在维护** · [Murmur](https://tefuirnever.github.io/Murmur/)
 · [oh-my-matrix](https://tefuirnever.github.io/oh-my-matrix/)
+
+**直接抄作业** · 这两张卡、五枚徽章和每日自动刷新由仓库里三个脚本驱动：
+[fetch_stats.py](scripts/fetch_stats.py) · [count_loc.py](scripts/count_loc.py) · [render_profile.py](scripts/render_profile.py)
+图文教程见 [content/github-profile-readme-guide.md](content/github-profile-readme-guide.md)，fork 改用户名即用。
