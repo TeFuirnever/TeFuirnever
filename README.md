@@ -20,7 +20,7 @@
 [![Followers](https://img.shields.io/badge/Followers-81-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=followers)
 [![Original Repos](https://img.shields.io/badge/Original%20Repos-16-FAA67C?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
 [![Commits](https://img.shields.io/badge/Commits-739-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=overview)
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-412.8k-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
+[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-413.4k-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
 <!-- STATS-END -->
 
 </div>
