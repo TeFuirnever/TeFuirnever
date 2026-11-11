@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    alt="阿舟的 Agent 实验室首页图：2026-11-11 的公开账号快照，展示 16 个原创公开仓库、81 位关注者、约 1.1k Stars，以及 Azhou AI Hub v1.0.0、Murmur v1.6.0、三本橙皮书与 oh-my-matrix；右侧的阿舟狐狸提着工具箱走向下一场交接。"
+    alt="阿舟的 Agent 实验室首页图：2026-11-11 的公开账号快照，展示 16 个原创公开仓库、81 位关注者、约 1.1k Stars，以及 Azhou AI Hub v1.0.0、Murmur v1.6.0、三本橙皮书与 oh-my-matrix；右侧的 Q 版阿舟举起验收徽章。"
     src="https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/azhou-public-work.png"
     width="100%">
 </p>
