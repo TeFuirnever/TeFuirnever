@@ -16,7 +16,10 @@
 
 [![Azhou AI Hub：经得起验证的 Agent Skills](assets/profile/azhou-ai-hub.jpg)](https://github.com/TeFuirnever/azhou-ai-hub)
 
-每个 skill 都当产品做：触发明确、拿来就能跑、验收确定、证据留档，演化路径由人拍板。v1.0.0 已于 2026-10-23 发布。
+每个 skill 都当产品做：触发明确、拿来就能跑、验收确定、证据留档，演化路径由人拍板。
+
+[![Latest release](https://img.shields.io/github/v/release/TeFuirnever/azhou-ai-hub?style=flat&label=Latest%20Release&color=FA9439)](https://github.com/TeFuirnever/azhou-ai-hub/releases/latest)
+[![Release date](https://img.shields.io/github/release-date/TeFuirnever/azhou-ai-hub?style=flat&label=Released&color=3F2414)](https://github.com/TeFuirnever/azhou-ai-hub/releases/latest)
 
 [打开 Azhou AI Hub →](https://github.com/TeFuirnever/azhou-ai-hub) · [看 Release →](https://github.com/TeFuirnever/azhou-ai-hub/releases)
 
