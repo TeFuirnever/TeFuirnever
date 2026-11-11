@@ -2,7 +2,7 @@
 
 <img src="assets/profile/hero.jpg" alt="阿舟：能跑、能验、能交接。我不做只在演示里好看的 AI 项目。右侧是抱着电脑打字的 Q 版阿舟。" width="100%" />
 
-我是阿舟，在「阿舟的 Agent 实验室」做三件事：Agent Skills、本地 AI、人控自动化。能跑只是起点；边界、证据、可复现性和人的最终判断，同样属于交付。
+我是阿舟，在「阿舟的 Agent 实验室」专心做一件事：Azhou AI Hub，一套经得起验证的 Agent Skills。能跑只是起点；边界、证据、可复现性和人的最终判断，同样属于交付。
 
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.1k-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever)
@@ -20,22 +20,6 @@
 
 [打开 Azhou AI Hub →](https://github.com/TeFuirnever/azhou-ai-hub) · [看 Release →](https://github.com/TeFuirnever/azhou-ai-hub/releases)
 
-## 实验台上：还在孵化
-
-[![Murmur：为中文优化的本地语音输入](assets/profile/murmur.jpg)](https://github.com/TeFuirnever/Murmur)
-
-为中文优化的本地语音输入。 [打开 Murmur →](https://github.com/TeFuirnever/Murmur) · [项目主页 →](https://tefuirnever.github.io/Murmur/)
-
-[![oh-my-matrix：Agent 编排扩展（WIP）](assets/profile/oh-my-matrix.jpg)](https://github.com/TeFuirnever/oh-my-matrix)
-
-Agent 编排扩展，还在 WIP。 [打开 oh-my-matrix →](https://github.com/TeFuirnever/oh-my-matrix) · [项目主页 →](https://tefuirnever.github.io/oh-my-matrix/)
-
-## 边做边学：三本橙皮书
-
-[![橙皮书：三本橙皮书，边做边学](assets/profile/orange-books.jpg)](https://github.com/TeFuirnever/matt-pocock-skills-orange-book)
-
-[Matt Pocock Skills 橙皮书 →](https://github.com/TeFuirnever/matt-pocock-skills-orange-book) · [Claude Code Internals 橙皮书 →](https://github.com/TeFuirnever/claude-code-internals-orange-book) · [DeepSeek Harness 橙皮书 →](https://github.com/TeFuirnever/deepseek-harness-orange-book)
-
 ## 我怎么判断「做完了」
 
 **REAL BEHAVIOR** 代码、配置和可复现结果，比陈旧文字更可靠。<br>
@@ -51,8 +35,6 @@ GitHub Actions 每天重绘这两张卡：一年贡献热力图，和一张 Neof
 
 [![Neofetch-style system snapshot with the avatar as coloured ASCII art](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-neofetch.svg)](https://github.com/TeFuirnever)
 
-[![Machine Learning in Action](https://img.shields.io/github/stars/TeFuirnever/Machine-Learning-in-Action?style=flat&label=Machine%20Learning%20in%20Action&color=FA9439)](https://github.com/TeFuirnever/Machine-Learning-in-Action)
-[![Murmur](https://img.shields.io/github/stars/TeFuirnever/Murmur?style=flat&label=Murmur&color=FAA67C)](https://github.com/TeFuirnever/Murmur)
 [![Azhou AI Hub](https://img.shields.io/github/stars/TeFuirnever/azhou-ai-hub?style=flat&label=Azhou%20AI%20Hub&color=3F2414)](https://github.com/TeFuirnever/azhou-ai-hub)
 
 ## 直接抄作业
