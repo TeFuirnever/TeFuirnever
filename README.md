@@ -37,7 +37,7 @@
 
 ---
 
-## NOW BUILDING / 正在构建
+## FLAGSHIP / 旗舰项目
 
 ### [Azhou AI Hub](https://github.com/TeFuirnever/azhou-ai-hub) · 经得起验证的 Agent Skills
 
@@ -47,39 +47,13 @@
 
 [![Azhou AI Hub — verified Agent Skill system](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-azhou-ai-hub.svg)](https://github.com/TeFuirnever/azhou-ai-hub)
 
-### [Murmur](https://github.com/TeFuirnever/Murmur) · 为中文优化的本地 AI 语音输入
-
-[![Murmur release](https://img.shields.io/github/v/release/TeFuirnever/Murmur?style=flat&label=release&color=FAA67C)](https://github.com/TeFuirnever/Murmur/releases)
-
-说话就能打字，也能批量转写音频，再用 AI 整理成可继续编辑的文本；语音识别在本地完成。
-
-[![Murmur — local AI voice input](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-murmur.svg)](https://github.com/TeFuirnever/Murmur)
-
-### [oh-my-matrix](https://github.com/TeFuirnever/oh-my-matrix) · OpenClaw-native Agent 编排扩展
-
-让长程任务持续执行，把复杂工作拆成可验证的并行流程，并在真实工具调用前守住权限边界。当前仍是 WIP。
-
-[![oh-my-matrix — Agent orchestration stack](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-oh-my-matrix.svg)](https://github.com/TeFuirnever/oh-my-matrix)
-
 ---
 
-## ORANGE BOOKS / 橙皮书
+## ON THE BENCH / 实验台上
 
-### [Matt Pocock Skills Orange Book](https://github.com/TeFuirnever/matt-pocock-skills-orange-book) · AI 协作开发的 Skills 中文导读
+**孵化中** · [Murmur](https://github.com/TeFuirnever/Murmur) 为中文优化的本地语音输入 · [oh-my-matrix](https://github.com/TeFuirnever/oh-my-matrix) Agent 编排扩展（WIP）
 
-面向 AI 协作开发新手，整理 37 个 Skills、匿名 UI 客户端实例、Excalidraw 与阿舟图解。
-
-[![Matt Pocock Skills Orange Book — 37 个 Skills 中文导读](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-matt-pocock-skills-orange-book.svg)](https://github.com/TeFuirnever/matt-pocock-skills-orange-book)
-
-### [Claude Code Internals Orange Book](https://github.com/TeFuirnever/claude-code-internals-orange-book) · Claude Code 内核走读
-
-用五卷内容拆解 Claude Code 的设计决策与关键内部机制，给出可继续追踪的源码阅读路径。
-
-[![Claude Code Internals Orange Book — 五卷内核走读](https://raw.githubusercontent.com/TeFuirnever/TeFuirnever/main/assets/profile/card-claude-code-internals-orange-book.svg)](https://github.com/TeFuirnever/claude-code-internals-orange-book)
-
-### [DeepSeek Harness Orange Book](https://github.com/TeFuirnever/deepseek-harness-orange-book) · 全插件 Agent 内核走读
-
-四卷套装：实战指南 × 源码走读 × mini-harness × 演进与评价，对着 pinned 源码树读懂全插件 Agent 内核。
+**已发布阅读** · [Matt Pocock Skills 橙皮书](https://github.com/TeFuirnever/matt-pocock-skills-orange-book) · [Claude Code Internals 橙皮书](https://github.com/TeFuirnever/claude-code-internals-orange-book) · [DeepSeek Harness 橙皮书](https://github.com/TeFuirnever/deepseek-harness-orange-book)
 
 ---
 
