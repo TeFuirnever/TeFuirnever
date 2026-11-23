@@ -11,8 +11,8 @@
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-1.1k-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever)
 [![Followers](https://img.shields.io/badge/Followers-81-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=followers)
 [![Original Repos](https://img.shields.io/badge/Original%20Repos-17-FAA67C?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
-[![Commits](https://img.shields.io/badge/Commits-841-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=overview)
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-445.1k-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
+[![Commits](https://img.shields.io/badge/Commits-858-FA9439?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=overview)
+[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-488.7k-3F2414?style=flat&logo=github&logoColor=white)](https://github.com/TeFuirnever?tab=repositories)
 <!-- STATS-END -->
 
 <a href="https://github.com/TeFuirnever/azhou-ai-hub">
